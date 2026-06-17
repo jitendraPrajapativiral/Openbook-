@@ -1,0 +1,6 @@
+{
+  "name": "OpenBook",
+  "description": "Har video, har kahani — khulke dekho. A complete, feature-rich YouTube-like video platform with AI summaries, content moderation, creator studio, and vertical shorts.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
